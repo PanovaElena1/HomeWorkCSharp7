@@ -18,7 +18,7 @@ System.Console.WriteLine();
             sum += arr[i, j];   
         }
          sum = sum / arr.GetLength(0);
-         System.Console.Write(sum);
+         Console.Write("{0:0.0}", sum);
          System.Console.Write(" ");
     }
     
@@ -32,7 +32,7 @@ int[,] Generate2DArray(int m, int n)
     {
         for(int j = 0; j < result.GetLength(1); j++)
         {
-            result[i, j] = new Random().Next(1, 5);
+            result[i, j] = new Random().Next(1, 10);
         }
     }
     return result;
