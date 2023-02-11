@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.AssemblyInfo.cs
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\bin\Debug\net6.0\TASK3.exe
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\bin\Debug\net6.0\TASK3.deps.json
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\bin\Debug\net6.0\TASK3.runtimeconfig.json
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\bin\Debug\net6.0\TASK3.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\bin\Debug\net6.0\TASK3.pdb
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\refint\TASK3.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.pdb
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\TASK3.genruntimeconfig.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\HOMEWORK7\TASK3\obj\Debug\net6.0\ref\TASK3.dll
